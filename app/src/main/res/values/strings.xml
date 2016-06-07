@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuickTest</string>
+    <string name="no_images">No Images Available</string>
+    <string name="search_text">Search</string>
+</resources>
